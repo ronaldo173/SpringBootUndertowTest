@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<configurations>
+	<configuration>
+		<id>1</id>
+		<name>for monitors by diagonal, price, color</name>
+	</configuration>
+	<configuration>
+		<id>2</id>
+		<name>phones by price, oc, ram memory</name>
+	</configuration>
+	<configuration>
+		<id>3</id>
+		<name>
+			laptops by screen size, cru power, screen resolution
+		</name>
+	</configuration>
+</configurations>

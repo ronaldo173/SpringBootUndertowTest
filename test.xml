@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<howto>
+	<topic name="Java">
+		<url>http://www.rgagnonjavahowto.htm</url>
+		<car>taxi</car>
+	</topic>
+	<topic name="PowerBuilder">
+		<url>http://www.rgagnon/pbhowto.htm</url>
+		<url>http://www.rgagnon/pbhowtonew.htm</url>
+	</topic>
+	<topic name="Javascript">
+		<url>http://www.rgagnon/jshowto.htm</url>
+	</topic>
+	<topic name="VBScript">
+		<url>http://www.rgagnon/vbshowto.htm</url>
+	</topic>
+</howto>
